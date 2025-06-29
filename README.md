@@ -1,4 +1,4 @@
-[!banner image](granite.png)
+![banner image](granite.png)
 
 > This project is part of the IBM TechXchange AI & Automation Unpacked Hackathon.
 
